@@ -133,6 +133,6 @@ developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
 
-*✨ Generated with ❤️ by Upstride AI Resume Builder*
+*✨ By karthigeyan S*
 
 </div>
